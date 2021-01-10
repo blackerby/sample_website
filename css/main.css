@@ -1,0 +1,51 @@
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+
+.nav-text {
+  text-decoration: none;
+  color: blue;
+}
+
+.nav-menu {
+  text-align: right;
+}
+
+.image-link {
+  text-decoration: none;
+}
+
+.report-header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.whale-img {
+  display: block;
+  margin: 0 auto;
+}
+
+.report {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.moby-dick-img {
+  float: left;
+  height: 200px;
+  margin: 0 40px 0 0;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 20px;
+}
+
+.highlight {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
